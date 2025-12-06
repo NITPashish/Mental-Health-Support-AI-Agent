@@ -1,5 +1,6 @@
 TWILIO_ACCOUNT_SID = ""
 TWILIO_AUTH_TOKEN = ""
-TWILIO_FROM_NUMBER = ""  # your Twilio number
+TWILIO_FROM_NUMBER = "+"  # your Twilio number
 EMERGENCY_CONTACT = ""  # or your local emergency number
 GOOGLE_API_KEY=""
+GOOGLE_MAPS_API_KEY = ""

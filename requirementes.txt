@@ -7,3 +7,6 @@ ollama
 langgraph
 langchain
 langchain-google-genai
+googlemaps
+geopy
+python_multipart
