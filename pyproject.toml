@@ -1,0 +1,18 @@
+[project]
+name = "mental-health-support-ai-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi>=0.123.10",
+    "langchain>=1.1.2",
+    "langchain-google-genai>=3.2.0",
+    "langgraph>=1.0.4",
+    "ollama>=0.6.1",
+    "pydantic>=2.12.5",
+    "requests>=2.32.5",
+    "streamlit>=1.52.1",
+    "twilio>=9.8.8",
+    "uvicorn>=0.38.0",
+]
