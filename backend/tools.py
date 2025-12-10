@@ -53,7 +53,3 @@ def call_emergency():
         url="http://demo.twilio.com/docs/voice.xml"  # Can customize message
     )
 
-
-
-
-# Step3: Setup Location tool
